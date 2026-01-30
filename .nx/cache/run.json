@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx run api:serve",
+    "startTime": "2026-01-30T16:51:20.750Z",
+    "endTime": "2026-01-30T16:52:14.434Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "@monorepo/api:build",
+      "target": "build",
+      "projectName": "@monorepo/api",
+      "hash": "6309766078585642311",
+      "startTime": "2026-01-30T16:51:20.760Z",
+      "endTime": "2026-01-30T16:51:21.587Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 0
+    }
+  ]
+}
